@@ -13,22 +13,16 @@
 
  ## 🛠️ Tecnologias que já utilizei
 
- ### ● 🌐 Desenvolvimento Web ❤️
- ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
- ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
- ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
- ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
- ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=jquery)
+ ### ● 🌐 Estudos em DataBase
+ ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  
  ![BootStrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
  
- ### ● 🖥️ Desenvolvimento Software
- ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
- ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp)
- ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+ ### ● 🖥️ Estudos em Back-End
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 
@@ -37,7 +31,6 @@
  ![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-333333?style=flat&logo=androidstudio)
  
  ### ● 📅 Banco de Dados
- ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
  ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
  ![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333333?style=flat&logo=phpmyadmin)
 
