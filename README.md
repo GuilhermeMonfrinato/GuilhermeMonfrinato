@@ -1,17 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=giovane-breno&color=006bed)
 
 
-# Bem-vindo ao meu perfil! <br>Prazer, Giovane.👋
-
-◦ 🌐 Desenvolvedor Web.
+# Bem-vindo ao meu perfil!
 
 ◦ 💻 Estudante da Programação.
 
-◦ 🙋 Otimista sempre!
+◦ 🔖 Visite <a href="https://www.linkedin.com/in/guilherme-monfrinato-2b3b76280/">meu currículo</a> e veja minhas competências e cursos completos!
 
-◦  🔖 Visite <a href="https://giovane-breno.github.io/Portfolio/">meu portifólio</a> para ver meus projetos!
+◦ 🎓 Cursando o ensino médio.
 
-◦ ⛵ <strong>A smooth sea never made a skilled sailor.</strong>
+◦ ⭐ Sempre a tento a oportunidades!
 
  ## 🛠️ Tecnologias que já utilizei
 
