@@ -11,8 +11,8 @@
   <a href="https://giovane-breno.github.io/Portfolio/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white&link=https://giovane-breno.github.io/Portfolio/"/>
  </a>
- <a href="https://www.linkedin.com/in/giovane-breno" target="_blank">
-  <img src="https://img.shields.io/badge/giovane_barbosa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-monfrinato-2b3b76280/" />
+ <a href="https://www.linkedin.com/in/guilherme-monfrinato-2b3b76280/" target="_blank">
+  <img src="https://img.shields.io/badge/guilherme_monfrinato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-monfrinato-2b3b76280/" />
  </a>
  <a href="mailto:giovane.breno@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/giovane.breno@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:giovane.breno@gmail.com"/>
