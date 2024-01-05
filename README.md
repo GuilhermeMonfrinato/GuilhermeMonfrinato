@@ -21,10 +21,10 @@
 <p align="center">
 
  <a>
-  <img src="https://img.shields.io/badge/Python-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-FF2D20?style=for-the-badge&logo=python&logoColor=white"/>
  </a>
   <a>
-  <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
  </a>
   <a>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
