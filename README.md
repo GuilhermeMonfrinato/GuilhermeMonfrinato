@@ -23,7 +23,9 @@
  <a>
   <img src="https://img.shields.io/badge/Python-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
  </a>
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  <a>
+  <img src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+ </a>
   <a>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
  </a>
