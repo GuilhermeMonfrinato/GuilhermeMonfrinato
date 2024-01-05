@@ -17,7 +17,11 @@
 
 </p>
 
- ## 🎓 Ferramentas que já estudei
+ <div align="center">
+<h3 >
+     🎓 Ferramentas que já utilizei
+</h3>
+</div>
 <p align="center">
 
  <a>
