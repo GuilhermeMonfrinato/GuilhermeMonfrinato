@@ -41,6 +41,6 @@
  <div align="center">
   <a href="https://github.com/guilhermemonfrinato">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermemonfrinato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-![](https://komarev.com/ghpvc/?username=giovane-breno&color=006bed)
+!https://komarev.com/ghpvc/?username=guilhermemonfrinato&color=006bed
 </div>
        
