@@ -41,6 +41,7 @@
  <div align="center">
   <a href="https://github.com/guilhermemonfrinato">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guilhermemonfrinato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<br/>
 <a href="https://www.linkedin.com/in/guilherme-monfrinato-2b3b76280/" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=guilhermemonfrinato&color=006bed" />
  </a>
