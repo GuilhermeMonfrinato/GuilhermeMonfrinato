@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/guilherme_monfrinato-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-monfrinato-2b3b76280/" />
  </a>
  <a href="mailto:guilherme.monfrinato.santos@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/guilherme.monfrinato.santos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilherme.monfrinato.santos@gmail.com"/>
+  <img src="https://img.shields.io/badge/guilherme.contato@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guilherme.monfrinato.santos@gmail.com"/>
  </a>
 
 </p>
